@@ -20,5 +20,5 @@ An AI chatbot built with **Groq API** and **Gradio**, runs directly in Google Co
 - groq
 - gradio
 ## Sample Output
-See [Reference output.docx](./Reference%20output.docx) for a sample conversation demonstrating the chatbot's capabilities.
+See [Reference_output.docx](./Reference_output.docx) for a sample conversation demonstrating the chatbot's capabilities.
 conversation demonstrating the chatbot's capabilities.
