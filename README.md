@@ -3,7 +3,7 @@
 An AI chatbot built with **Groq API** and **Gradio**, runs directly in Google Colab.
 
 ## Run in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joana-rosh21/ai-chatbot/blob/main/chatbot_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joana-rosh21/ai-chatbot/blob/main/ai-chatbot.ipynb)
 
 ##Features
 - Chat with LLaMA 3, Mixtral, Gemma models
